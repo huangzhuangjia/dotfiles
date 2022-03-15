@@ -1,0 +1,15 @@
+[alias]  
+      st = status
+      cm = commit -m
+      br = branch
+      co = checkout
+      cob = checkout -b
+      df = diff
+      pso = push origin
+      plo = pull origin
+      mg = merge
+      brd = branch -D
+[user]
+	name = huangzhuangjia
+	email = huangzhuangjia@bigo.sg
+
